@@ -1,2 +1,2 @@
 # babel-notes
-> Babel learning notes
+> Babel learning notes.
